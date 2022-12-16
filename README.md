@@ -1,2 +1,2 @@
-# Tabs-UI-
+# Tabs-UI
 Tabs UI Exercise
